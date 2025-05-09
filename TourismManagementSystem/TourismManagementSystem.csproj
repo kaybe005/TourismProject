@@ -131,6 +131,7 @@
     <Compile Include="Controllers\AgencyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TouristController.cs" />
+    <Compile Include="Controllers\TravelPackageController.cs" />
     <Compile Include="DAL\TourismContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -148,6 +149,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -202,6 +204,10 @@
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Tourist\Dashboard.cshtml" />
     <Content Include="Views\Agency\Dashboard.cshtml" />
+    <Content Include="Views\TravelPackage\Create.cshtml" />
+    <Content Include="Views\TravelPackage\MyPackages.cshtml" />
+    <Content Include="Views\TravelPackage\Edit.cshtml" />
+    <Content Include="Views\TravelPackage\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -16,6 +16,7 @@ namespace TourismManagementSystem.Models
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public int MaxGroupSize { get; set; }
+        public int Duration { get; set; }
 
         public int UserId { get; set; }
         public virtual User Agency { get; set; }

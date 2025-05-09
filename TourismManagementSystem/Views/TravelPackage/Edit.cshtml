@@ -1,0 +1,33 @@
+﻿@model TourismManagementSystem.Models.TravelPackage
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Travel Package</h2>
+    
+@using (Html.BeginForm())
+            {
+                @Html.HiddenFor(m => m.TravelPackageId)
+
+    <div>
+        @Html.LabelFor(m => m.Title)
+        @Html.TextBoxFor(m => m.Title)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Description)
+        @Html.TextAreaFor(m => m.Description)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Duration)
+        @Html.TextBoxFor(m => m.Duration)
+    </div>
+
+    <input type="submit" value="Save Changes" />
+            }

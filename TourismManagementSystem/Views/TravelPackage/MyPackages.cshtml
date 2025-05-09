@@ -1,0 +1,35 @@
+﻿@model List<TourismManagementSystem.Models.TravelPackage>
+@{
+    ViewBag.Title = "MyPackages";
+}
+
+<h2>My Travel Packages</h2>
+
+<p>
+    @Html.ActionLink("Add New Package", "Create")
+</p>
+
+<table border="1">
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Price</th>
+        <th>Duration</th>
+        <th>Actions</th>
+    </tr>
+    
+    @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>@item.Duration</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.TravelPackageId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.TravelPackageId })
+                    </td>
+                </tr>
+            }
+</table>
+

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\tourismmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|c:\\users\\kashish\\desktop\\new folder\\tourismmanagementsystem\\tourismmanagementsystem\\views\\travelpackage\\mypackages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\views\\travelpackage\\mypackages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|c:\\users\\kashish\\desktop\\new folder\\tourismmanagementsystem\\tourismmanagementsystem\\views\\travelpackage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\views\\travelpackage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|c:\\users\\kashish\\desktop\\new folder\\tourismmanagementsystem\\tourismmanagementsystem\\views\\travelpackage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\views\\travelpackage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|c:\\users\\kashish\\desktop\\new folder\\tourismmanagementsystem\\tourismmanagementsystem\\views\\travelpackage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\views\\travelpackage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\tourismmanagementsystem\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\tourismmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\tourismmanagementsystem\\models\\agencyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6462CD14-AD8C-4159-9B1F-929094544A53}|TourismManagementSystem\\TourismManagementSystem.csproj|solutionrelative:tourismmanagementsystem\\models\\agencyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Views\\TravelPackage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Delete.cshtml",
+              "RelativeToolTip": "TourismManagementSystem\\Views\\TravelPackage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T23:05:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Views\\TravelPackage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Edit.cshtml",
+              "RelativeToolTip": "TourismManagementSystem\\Views\\TravelPackage\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T22:53:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgencyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Models\\AgencyProfile.cs",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Models\\AgencyProfile.cs",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Models\\AgencyProfile.cs",
+              "RelativeToolTip": "TourismManagementSystem\\Models\\AgencyProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:43:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPackages.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\MyPackages.cshtml",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Views\\TravelPackage\\MyPackages.cshtml",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\MyPackages.cshtml",
+              "RelativeToolTip": "TourismManagementSystem\\Views\\TravelPackage\\MyPackages.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T22:46:35.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Create.cshtml",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Views\\TravelPackage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Views\\TravelPackage\\Create.cshtml",
+              "RelativeToolTip": "TourismManagementSystem\\Views\\TravelPackage\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T22:36:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgencyController.cs",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Controllers\\AgencyController.cs",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Controllers\\AgencyController.cs",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Controllers\\AgencyController.cs",
+              "RelativeToolTip": "TourismManagementSystem\\Controllers\\AgencyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:02:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TourismManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:29:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TourismManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kashish\\Desktop\\New folder\\TourismManagementSystem\\TourismManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "TourismManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:36:46.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
